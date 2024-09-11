@@ -65,11 +65,13 @@ To use the application ensure all credentials are filled in src/config.py and th
 
 Utils folder is to parse dataset and get it into GCS/Pinecone, these files also need to be filled in with credentials. Everything is currently based on GCP and Pinecone so it will have to be adapted to your env. 
 
-![image](https://github.com/user-attachments/assets/3d92feff-87b4-4090-ba86-7407687d2c81)
-![image](https://github.com/user-attachments/assets/e05882f6-96cb-44d8-b50d-840fba3921c6)
+
 
 Note performance isn't that great and the models need more tuning or I need to look into other ones. 
+![image](https://github.com/user-attachments/assets/eb663c73-6c16-4b51-b545-99b4b89957e3)
+![image](https://github.com/user-attachments/assets/ec182e2b-2f89-49f4-8c41-f17fec9ee7c4)
+
 
 Example of GCP Logging:
-![image](https://github.com/user-attachments/assets/12b2f3ad-8a2f-4b1c-a07b-e8b026d7ff86)
 
+![image](https://github.com/user-attachments/assets/4de7f0d8-7ed7-489f-abd2-65bf8d5c9a32)
