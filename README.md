@@ -5,7 +5,8 @@ https://612a80d447442136e6.gradio.live/ (lasts for 72 hours will update if reque
 Used GCP VM, GCS Bucket, GCP SQL DB, GCP Logging, Pinecone Vector DB, CLIP Model, Gemini Model (Vertex AI), Gradio UI
 
 Overview
-This project implements a multimodal chat application that allows users to query both text and images from the Flickr30 dataset using a Retrieval-Augmented Generation (RAG) approach. The application integrates text and image data, using vector-based retrieval and large language models to generate meaningful responses to user queries.
+
+This project implements a multimodal chat that allows users to query both text and images from the Flickr30 dataset using a Retrieval-Augmented Generation (RAG) approach. The application integrates text and image data, using vector-based retrieval and large language models to generate meaningful responses to user queries.
 
 Features
 
